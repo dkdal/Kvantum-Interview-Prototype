@@ -1,0 +1,46 @@
+.top{
+	margin: 50px 75px 100px 75px;
+	color: rgba(255,0,0,1);
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.header{
+	background-color: rgba(0,0,150,0.7); 
+	padding-top: 30px; 
+	padding-bottom: 30px; 
+	margin: 0 auto 50px auto; 
+	text-align: center; 
+	font-weight: bold; 
+	color: rgba(0,220,0,1); 
+	width: 100%; 
+	font-size:40px; 
+	font-weight: bold; 
+	text-shadow: 1px 0px #ff0000; 
+	border-radius: 20px;
+}
+
+ body{
+ 	/*background-image: linear-gradient(to top, #1970ee, #009cf7, #4cc0f3, #a2dfef, #f0f9f9);*/
+	background-image: url('download.jpeg');
+	background-size: 100%;
+
+ }
+
+ .books{ 	
+	/*background-color: rgba(100,100,100,0.8); */
+ }
+
+.footer{
+	padding-bottom: 20px; 
+	padding-top: 20px; 
+	font-size: 30px; 
+	text-align: center;
+	color: rgba(255,255,255,1);  
+	background-color: rgba(0,0,150,0.8); 
+	font-weight: bold; 
+	position: fixed; 
+	bottom: 10px; 
+	width: 100%;
+} 
+  
